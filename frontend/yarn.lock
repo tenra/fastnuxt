@@ -1283,7 +1283,7 @@
     webpack "^4.0.0"
     yorkie "^2.0.0"
 
-"@vue/cli-plugin-router@^4.5.13":
+"@vue/cli-plugin-router@^4.5.13", "@vue/cli-plugin-router@~4.5.0":
   version "4.5.13"
   resolved "https://registry.nlark.com/@vue/cli-plugin-router/download/@vue/cli-plugin-router-4.5.13.tgz?cache=0&sync_timestamp=1631754007637&other_urls=https%3A%2F%2Fregistry.nlark.com%2F%40vue%2Fcli-plugin-router%2Fdownload%2F%40vue%2Fcli-plugin-router-4.5.13.tgz#0b67c8898a2bf132941919a2a2e5f3aacbd9ffbe"
   integrity sha1-C2fIiYor8TKUGRmiouXzqsvZ/74=
