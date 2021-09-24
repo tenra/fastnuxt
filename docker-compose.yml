@@ -9,8 +9,8 @@ services:
     restart: always
     tty: true
     volumes:
-      - ./frontend/app:/app
-    working_dir: /app
+      - ./frontend:/frontend
+    working_dir: /frontend
     command: yarn serve
 
   backend:
