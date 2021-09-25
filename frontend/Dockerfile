@@ -5,4 +5,7 @@ ENV TZ Asia/Tokyo
 
 RUN yarn global add @vue/cli @vue/cli-init
 
-CMD bash
+WORKDIR /frontend
+
+ENV HOST 0.0.0.0
+EXPOSE 3000

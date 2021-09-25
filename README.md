@@ -1,1 +1,1 @@
-# fastvue
+# FastNuxt

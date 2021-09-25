@@ -1,5 +1,5 @@
 from fastapi import FastAPI
-from pydantic import BaseModel
+#from pydantic import BaseModel
 from starlette.middleware.cors import CORSMiddleware
 
 app = FastAPI()
@@ -15,4 +15,4 @@ app.add_middleware(
 
 @app.get("/")
 async def top():
-    return "Hello, FastVue"
+    return "Hello, FastfNuxt"
